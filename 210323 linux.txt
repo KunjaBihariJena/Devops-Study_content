@@ -293,6 +293,14 @@ id gid gassigm
 
 cat /etc/passwd
 
+today topics-22-03-23
+'''''''''''''''''''''
+Grep ->>>>global regular expression print->>grep [OPTIONS] PATTERN [FILE...]
+
+Useradd->>> to create new user accounts ->>
+Usermod->>> to modify existing user accounts
+Groupadd->>> to create new group
+Groupmod->>> to modify existing groups
 
 
 
